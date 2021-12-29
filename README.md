@@ -1,3 +1,3 @@
-# Pipenv Python Template
+# My First Application CLI
 
-A default [Pipenv](https://github.com/pypa/pipenv) Python template with [Dependabot](https://dependabot.com/) and [PEP 8 Speaks](https://pep8speaks.com/) Apps.
+An example of application CLI build with [Typer](https://typer.tiangolo.com/).
