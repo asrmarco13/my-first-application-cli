@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "~/.local/share/virtualenvs/my-first-application-cli-_COMy7pG/bin/python",
+    "python.formatting.provider": "black",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
